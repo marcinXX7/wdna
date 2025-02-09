@@ -1,0 +1,3 @@
+Jan Kowalski 25 2000-01-01
+Jan Nowak 40 1985-01-01
+Anna Jurkiewicz 50 1975-01-01
